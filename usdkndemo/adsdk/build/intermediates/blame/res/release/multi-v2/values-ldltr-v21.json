@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

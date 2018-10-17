@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wppai.adusdk.demo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.wppai.adusdk.demo.SplashActivity"
+            android:label="WPP ADUSDK Demo"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wppai.adusdk.demo.BannerActivity"
+            android:label="WPP Banner广告"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+        <activity
+            android:name="com.wppai.adusdk.demo.MainActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.wppai.adusdk.demo.InterstitialActivity"
+            android:label="WPP插屏广告" />
+        <activity
+            android:name="com.wppai.adusdk.demo.NativeActivity"
+            android:label="WPP原生自渲染广告（横）" />
+        <activity
+            android:name="com.wppai.adusdk.demo.NativeVerticalActivity"
+            android:label="WPP原生自渲染广告（竖）" />
+        <activity
+            android:name="com.wppai.adsdk.WebViewActivity"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="share"
+                    android:scheme="will" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wppai.adsdk.AdDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ADialogActivityTheme" />
+
+        <receiver android:name="com.wppai.adsdk.comm.NotificationBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="notification_cancelled" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.wppai.adsdk.WebViewActivity$DownloadReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.liulishuo.okdownload.OkDownloadProvider"
+            android:authorities="com.wppai.adusdk.demo.com.liulishuo.okdownload"
+            android:exported="false" />
+        <provider
+            android:name="com.wppai.adsdk.comm.WPPAIFileProvider"
+            android:authorities="com.wppai.adusdk.demo.wppai.fileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/wppai_file_paths" />
+        </provider> <!-- GDT -->
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.wppai.adusdk.demo.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/gdt_file_path" />
+        </provider>
+
+        <service
+            android:name="com.qq.e.comm.DownloadService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.qq.e.ads.ADActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" /> <!-- baidu -->
+        <provider
+            android:name="com.baidu.mobads.openad.FileProvider"
+            android:authorities="com.wppai.adusdk.demo.bd.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/bd_file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.baidu.mobads.AppActivity"
+            android:configChanges="screenSize|keyboard|keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- TT -->
+        <provider
+            android:name="com.wppai.adsdk.comm.TTFileProvider"
+            android:authorities="com.wppai.adusdk.demo.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/tt_file_paths" />
+        </provider>
+        <provider
+            android:name="com.bytedance.sdk.openadsdk.service.TTDownloadProvider"
+            android:authorities="com.wppai.adusdk.demo.union_adsdk_tt"
+            android:exported="false" /> <!-- 下面的activity和service必须注册 -->
+        <activity
+            android:name="com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.bytedance.sdk.openadsdk.activity.TTDelegateActivity"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service android:name="com.bytedance.sdk.openadsdk.service.TTDownloadService" />
+        <service android:name="com.bytedance.sdk.openadsdk.service.TTDownloadHandlerService" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

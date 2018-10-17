@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/insert_ad_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:layout_marginTop="32dp"/>
+
+    <ImageView
+        android:id="@+id/insert_dislike_icon_img"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="right|top"
+        android:scaleType="fitXY"
+        android:src="@drawable/tt_dislike_icon"/>
+    <ImageView
+        android:id="@+id/insert_ad_logo"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/tt_ad_logo_small"
+        android:layout_gravity="right|bottom"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="15dp"/>
+    <TextView
+        android:id="@+id/insert_ad_text"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/tt_circle_solid_mian"
+        android:textColor="@color/tt_white"
+        android:text="Ad"
+        android:gravity="center"
+        android:layout_gravity="left|bottom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="15dp"/>
+
+</FrameLayout>

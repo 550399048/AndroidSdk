@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wppai.adusdk.demo">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:label="WPP ADUSDK Demo"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".BannerActivity"
+            android:label="WPP Banner广告"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"></activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".InterstitialActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="WPP插屏广告" />
+        <activity
+            android:name=".NativeActivity"
+            android:label="WPP原生自渲染广告（横）" />
+        <activity
+            android:name=".NativeVerticalActivity"
+            android:label="WPP原生自渲染广告（竖）" />
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+#Wed Oct 17 10:07:13 CST 2018
+base.0=/Users/wucaiyan/Project/qyAd/sdk/sdk_android/sdkndemo/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

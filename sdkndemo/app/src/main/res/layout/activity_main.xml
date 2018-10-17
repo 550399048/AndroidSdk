@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wppai.adsdk.demo.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bannerADButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Banner广告接入示例" />
+    <Button
+        android:id="@+id/interstitialADButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="插屏广告接入示例" />
+    <Button
+        android:id="@+id/splashADButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="开屏广告接入示例" />
+
+    <Button
+        android:id="@+id/nativeADButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="原生自渲染广告接入示例(横)" />
+
+    <Button
+        android:id="@+id/nativeADButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="原生自渲染广告接入示例(竖)" />
+
+</LinearLayout>

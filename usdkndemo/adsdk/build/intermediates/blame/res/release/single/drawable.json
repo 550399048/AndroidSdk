@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_leftbackbutton_titlebar_photo_preview.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_leftbackbutton_titlebar_photo_preview.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb_fullscreen_selector.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb_fullscreen_selector.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_cancel_popupwindow.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_cancel_popupwindow.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_dislike_bottom_seletor.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_dislike_bottom_seletor.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_play_movebar_textpage.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_play_movebar_textpage.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_reward_countdown_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_reward_countdown_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_ad_video_loading_progressbar.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_ad_video_loading_progressbar.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4ff22ca71eb357f58eea4274ed60bf6d/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_leftbackicon_selector_for_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_leftbackicon_selector_for_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_download_progress.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_download_progress.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_video_progress.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_video_progress.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_status_download.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_status_download.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_dislike_top_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_dislike_top_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_video_black_desc_gradient.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_video_black_desc_gradient.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_shadow_btn_back_withoutnight.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_shadow_btn_back_withoutnight.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_dialog_corner_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_dialog_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_notification_icon.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_notification_icon.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb_press.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb_press.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_download_corner_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_download_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_refreshing_video_textpage.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_refreshing_video_textpage.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb_normal.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_leftbackicon_selector.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_leftbackicon_selector.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb_fullscreen_press.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb_fullscreen_press.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb_fullscreen.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_titlebar_close_seletor_for_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_titlebar_close_seletor_for_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_volume_progress.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_volume_progress.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4ff22ca71eb357f58eea4274ed60bf6d/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_background_circle.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_background_circle.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_thumb.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_ad_download_progress_bar_horizontal.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_ad_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_ic_launcher.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_video_loading_progress_bar.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_video_loading_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4ff22ca71eb357f58eea4274ed60bf6d/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_close_move_detail.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_close_move_detail.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_skip_text_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_skip_text_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_dislike_middle_seletor.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_dislike_middle_seletor.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_detail_video_btn_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_detail_video_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4ff22ca71eb357f58eea4274ed60bf6d/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_skip_bg.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_skip_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_circle_solid_mian.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_circle_solid_mian.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_dislike_cancle_bg_selector.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_dislike_cancle_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_seek_progress.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_seek_progress.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_banner_ad_download.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_banner_ad_download.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/sdk_banner_backgroud.png",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/drawable/sdk_banner_backgroud.png"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_ad_cover_btn_begin_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_ad_cover_btn_begin_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_stop_movebar_textpage.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_stop_movebar_textpage.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_shadow_btn_back.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_shadow_btn_back.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_video_traffic_continue_play_bg.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_video_traffic_continue_play_bg.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable/tt_titlebar_close_seletor.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/open_ad_sdk.aar/6708cc1f933b0eb786c4096f730ae21f/res/drawable/tt_titlebar_close_seletor.xml"
+    }
+]

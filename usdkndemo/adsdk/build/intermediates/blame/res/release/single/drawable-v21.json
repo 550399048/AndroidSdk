@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4ff22ca71eb357f58eea4274ed60bf6d/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/wucaiyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2a341f6d0fb642caae272733eeddddff/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

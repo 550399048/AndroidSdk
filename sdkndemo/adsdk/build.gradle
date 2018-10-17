@@ -1,0 +1,39 @@
+apply plugin: 'com.android.library'
+
+def getProductName() {
+    return "wppai-adsdk-release"
+}
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    android.libraryVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = getProductName() + "_${defaultConfig.versionName}"+'.aar'
+        }
+    }
+
+}
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:26.+'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation files('libs/sqlite-1.0.4.jar')
+    implementation files('libs/okdownload-1.0.4.jar')
+    implementation 'com.google.code.gson:gson:2.7'
+}

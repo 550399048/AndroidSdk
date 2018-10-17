@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/xml/gdt_file_path.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/xml/gdt_file_path.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/xml/wppai_file_paths.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/xml/wppai_file_paths.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/xml/tt_file_paths.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/xml/tt_file_paths.xml"
+    },
+    {
+        "merged": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/build/intermediates/res/merged/release/xml/bd_file_paths.xml",
+        "source": "/Users/wucaiyan/Project/qyAd/sdk/sdk_android/usdkndemo/adsdk/src/main/res/xml/bd_file_paths.xml"
+    }
+]
